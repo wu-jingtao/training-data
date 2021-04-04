@@ -7,3 +7,8 @@ data = tf.data.Dataset.cache('存放缓存文件的文件夹路径')
 # 查看数据
 print(next(iter(data.take(1))))
 ```
+
+## 数据集列表
+
+-   语音识别
+    -   [中文](./speech_recognition/chinese/README.md)
