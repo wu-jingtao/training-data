@@ -9,11 +9,11 @@
 1. 这个数据集比较适合做模型试验，数据量不算大，里面自带背景噪声数据。
 1. 录制的音频经常出现喷麦的现象。
 1. 朗读者全部为女生。
-1. [详细分析报告](./notebooks/THCHS30-数据分析报告.ipynb)
+1. [详细分析报告](./THCHS30/notebooks/THCHS30-数据分析报告.ipynb)
 
 #### 数据下载
 
 | 数据                        | 下载地址     | 创建代码 | 示例数据                                                                |
 | --------------------------- | ------------ | -------- | ----------------------------------------------------------------------- |
-| 带背景噪音的 `mel` 频谱图   | [百度网盘]() | [代码](./THCHS30/notebooks/THCHS30-创建Mel频谱图.ipynb) | [示例 1](./THCHS30/demo/A2_92.mp3)、[示例 2](./THCHS30/demo/A2_108.mp3) |
-| 不带背景噪音的 `mel` 频谱图 | [百度网盘]() | [代码](./THCHS30/notebooks/THCHS30-创建Mel频谱图.ipynb) | [示例 1](./THCHS30/demo/A2_0.mp3)、[示例 2](./THCHS30/demo/C7_502.mp3)  |
+| 带背景噪音的 `mel` 频谱图   | [谷歌网盘](https://drive.google.com/file/d/1-Xp-x4SQD_5ZSCBbU7850FRSVkN3EdB4/view?usp=sharing) | [代码](./THCHS30/notebooks/THCHS30-创建Mel频谱图.ipynb) | [示例 1](./THCHS30/demo/A2_92.mp3)、[示例 2](./THCHS30/demo/A2_108.mp3) |
+| 不带背景噪音的 `mel` 频谱图 | [谷歌网盘](https://drive.google.com/file/d/1-XUZ7BqfUf_PY84iKlT_Io8T4FL8ilAd/view?usp=sharing) | [代码](./THCHS30/notebooks/THCHS30-创建Mel频谱图.ipynb) | [示例 1](./THCHS30/demo/A2_0.mp3)、[示例 2](./THCHS30/demo/C7_502.mp3)  |
