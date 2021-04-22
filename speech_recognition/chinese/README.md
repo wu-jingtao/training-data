@@ -15,5 +15,5 @@
 
 | 数据                        | 下载地址     | 创建代码 | 示例数据                                                                |
 | --------------------------- | ------------ | -------- | ----------------------------------------------------------------------- |
-| 带背景噪音的 `mel` 频谱图   | [谷歌网盘](https://drive.google.com/file/d/1-Xp-x4SQD_5ZSCBbU7850FRSVkN3EdB4/view?usp=sharing) | [代码](./THCHS30/notebooks/THCHS30-创建Mel频谱图.ipynb) | [示例 1](./THCHS30/demo/A2_92.mp3)、[示例 2](./THCHS30/demo/A2_108.mp3) |
-| 不带背景噪音的 `mel` 频谱图 | [谷歌网盘](https://drive.google.com/file/d/1-XUZ7BqfUf_PY84iKlT_Io8T4FL8ilAd/view?usp=sharing) | [代码](./THCHS30/notebooks/THCHS30-创建Mel频谱图.ipynb) | [示例 1](./THCHS30/demo/A2_0.mp3)、[示例 2](./THCHS30/demo/C7_502.mp3)  |
+| 带背景噪音的 `mel` 频谱图   | [谷歌网盘](https://drive.google.com/file/d/1-_M9RI74-a1zzMXS6qYQ3G22rqPSp76n/view?usp=sharing) | [代码](./THCHS30/notebooks/THCHS30-创建Mel频谱图.ipynb) | [示例 1](./THCHS30/demo/A2_92.mp3)、[示例 2](./THCHS30/demo/A2_108.mp3) |
+| 不带背景噪音的 `mel` 频谱图 | [谷歌网盘](https://drive.google.com/file/d/1-_3q6dneIt7CL53OvqyAZKo1wiV6uFkU/view?usp=sharing) | [代码](./THCHS30/notebooks/THCHS30-创建Mel频谱图.ipynb) | [示例 1](./THCHS30/demo/A2_0.mp3)、[示例 2](./THCHS30/demo/C7_502.mp3)  |
