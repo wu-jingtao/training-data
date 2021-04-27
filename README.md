@@ -12,4 +12,7 @@
 ## 数据集列表
 
 -   语音识别
-    -   [中文](./speech_recognition/chinese/README.md)
+    -   中文
+        -   [THCHS30](./speech_recognition/chinese/THCHS30/README.md)
+        -   [ST-CMDS](./speech_recognition/chinese/ST-CMDS/README.md)
+        -   [AISHELL 开源版](./speech_recognition/chinese/AISHELL开源版/README.md)
