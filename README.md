@@ -17,3 +17,6 @@
         -   [ST-CMDS](./speech_recognition/chinese/ST-CMDS/README.md)
         -   [AISHELL 开源版](./speech_recognition/chinese/AISHELL开源版/README.md)
         -   [Primewords-Set1](./speech_recognition/chinese/Primewords-Set1/README.md)
+        -   [AIDataTang-200zh](./speech_recognition/chinese/AIDataTang-200zh/README.md)
+        -   [MagicData](./speech_recognition/chinese/MagicData/README.md)
+        -   [CN-Celeb](./speech_recognition/chinese/CN-Celeb/README.md)
