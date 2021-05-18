@@ -20,3 +20,6 @@
         -   [AIDataTang-200zh](./speech_recognition/chinese/AIDataTang-200zh/README.md)
         -   [MagicData](./speech_recognition/chinese/MagicData/README.md)
         -   [CN-Celeb](./speech_recognition/chinese/CN-Celeb/README.md)
+-   语音合成
+    -   中文
+        -   [BZNSYP](./speech_synthesis/chinese/BZNSYP/README.md)
